@@ -1,0 +1,3 @@
+*board - Show the current state of the game board
+*mv - Puts your symbol on the board. Follow this command by number of your choice (1-9).
+*r - Reset the game
